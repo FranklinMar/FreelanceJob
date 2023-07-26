@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog
+SYSTEM "shops.dtd">
+<yml_catalog date="2023-07-26 03:59">
+ <shop>
+  <currencies>
+   <currency id="UAH" rate="1"/>
+  </currencies>
+  <categories>
+   <category id="1055">КАТАЛОГ</category>
+   <category id="1075" parentId="1055">Термобілизна</category>
+   <category id="1079" parentId="1075">Чоловіча термобілизна</category>
+   <category id="1078" parentId="1075">Жіноча термобілизна</category>
+   <category id="1076" parentId="1075">Дитяча термобілизна</category>
+   <category id="1133" parentId="1075">На кожен день</category>
+   <category id="1134" parentId="1075">Термобілизна для спорту</category>
+   <category id="1100" parentId="1075">Спортивна спідня білизна</category>
+   <category id="1103" parentId="1055">Спортивні шкарпетки</category>
+   <category id="1080" parentId="1055">Одяг для велоспорту</category>
+   <category id="1082" parentId="1080">Велофутболки та джерсі</category>
+   <category id="1135" parentId="1080">Велокуртки</category>
+   <category id="1081" parentId="1080">Велосипедні шорти</category>
+   <category id="1136" parentId="1080">Велоштани та біби</category>
+   <category id="1137" parentId="1080">Велошкарпетки</category>
+   <category id="1138" parentId="1080">Велорукавиці</category>
+   <category id="1132" parentId="1080">Велоаксесуари</category>
+   <category id="1087" parentId="1055">Одяг для бігу та фітнесу</category>
+   <category id="1091" parentId="1087">Футболки для бігу та фітнесу</category>
+   <category id="1139" parentId="1087">Кофти для бігу та фітнесу</category>
+   <category id="1090" parentId="1087">Куртки для бігу</category>
+   <category id="1088" parentId="1087">Тайтси та штани</category>
+   <category id="1093" parentId="1087">Шорти для бігу</category>
+   <category id="1095" parentId="1087">Жіночі топи для спорту</category>
+   <category id="1056" parentId="1055">Спортивний одяг</category>
+   <category id="1140" parentId="1056">Спортивні футболки на кожен день</category>
+   <category id="1142" parentId="1056">Спортивні кофти та худі</category>
+   <category id="1143" parentId="1056">Спортивні куртки</category>
+   <category id="1144" parentId="1056">Спортивні шорти</category>
+   <category id="1141" parentId="1056">Спортивні штани</category>
+   <category id="1104" parentId="1055">Стоковий одяг</category>
+   <category id="1113" parentId="1104">Для чоловіків</category>
+   <category id="1105" parentId="1104">Для жінок</category>
+   <category id="1155" parentId="1104">Для дітей</category>
+   <category id="1120" parentId="1104">Стокова термобілизна</category>
+   <category id="1122" parentId="1104">Стокові аксесуари</category>
+   <category id="1125" parentId="1055">Спортивне взуття</category>
+   <category id="1126" parentId="1125">Чоловічі кросівки</category>
+   <category id="1145" parentId="1125">Жіночі кросівки</category>
+   <category id="1085" parentId="1055">Аксесуари</category>
+   <category id="1149" parentId="1085">Кепки</category>
+   <category id="1123" parentId="1085">Шапки</category>
+   <category id="1086" parentId="1085">Утеплювачі для шиї</category>
+   <category id="1146" parentId="1085">Рукавиці</category>
+   <category id="1150" parentId="1085">Інше</category>
+   <category id="1128" parentId="1055">X-BIONIC</category>
+   <category id="1151" parentId="1128">X-Bionic термобілизна</category>
+   <category id="1152" parentId="1128">X-Bionic велоодяг</category>
+   <category id="1153" parentId="1128">X-Bionic для бігу</category>
+   <category id="1154" parentId="1128">X-Socks термошкарпетки</category>
+   <category id="1147" parentId="1055">Оптика</category>
+   <category id="1124" parentId="1147">Сонцезахисні окуляри</category>
+   <category id="1148" parentId="1147">Гірськолижні маски</category>
+   <category id="1127" parentId="1055">Останній розмір</category>
+   <category id="1156" parentId="1127">Термобілизна</category>
+   <category id="1157" parentId="1127">Велоспорт</category>
+   <category id="1158" parentId="1127">Біг та фітнес</category>
+   <category id="1098" parentId="1055">Подарункові сертифікати</category>
+  </categories>
+  <offers>
+    <offer id="7988" group_id="9800461" available="true">
+     <url>https://www.craftukraine.com.ua/ru/zhenskye-krossovky-shoe-x165-engineered-w/7988/</url>
+     <oldprice>5428</oldprice>
+     <price>4342</price>
+     <currencyId>UAH</currencyId>
+     <categoryId>1145</categoryId>
+     <quantity_in_stock>1</quantity_in_stock>
+     <picture>https://www.craftukraine.com.ua/content/images/39/zhenskye-krossovky-shoe-x165-engineered-w7988-15380999174668_+caa3e0c79c.jpeg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/39/zhenskye-krossovky-shoe-x165-engineered-w7988-24301692775833_+c16a736f01.jpeg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/39/zhenskye-krossovky-shoe-x165-engineered-w7988-51189179899859_+22f0177c45.jpeg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/39/zhenskye-krossovky-shoe-x165-engineered-w7988-83703770748308_+0f3db16e1a.jpeg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/39/zhenskye-krossovky-shoe-x165-engineered-w7988-66174539652481_+b1b3e1526b.jpeg</picture>
+     <vendorCode>7318573201230</vendorCode>
+     <vendor>Craft</vendor>
+     <name><![CDATA[Женские кроссовки SHOE X165 ENGINEERED W, Чорний, 22,5 см]]></name>
+     <description><![CDATA[<p data-mce-style="text-align: left;"><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Этот&nbsp;товар находится&nbsp;на нашем&nbsp;складе!&nbsp;Вы&nbsp;можете&nbsp;его&nbsp;заказать,&nbsp;а&nbsp;мы в течение&nbsp;нескольких&nbsp;дней&nbsp;доставим&nbsp;его&nbsp;в&nbsp;магазин&nbsp;или&nbsp;отправим&nbsp;Вам по почте.</span></strong></span></p>    <p data-mce-style="text-align: left;">Легкие по весу, дышащие многофункциональные беговые кроссовки. Имеют специализированное сетчатое покрытие и отличную амортизацию.</p>    <p><strong>Особенности:</strong>&nbsp;</p>    <ul data-mce-style="text-align: left;">   <li>Плетеная синтетическая ткань в верхней части разработана для дополнительной воздухопроницаемости, гибкости и прочности;</li>   <li>Дизайн в форме носка;</li>   <li>Конструкция X-Support в сочетании с не прошитыми синтетическими шнурками обеспечивают идеальный баланс между поддержкой и гибкостью для природного шага;</li>   <li>Задняя поддержка пятки для уменьшения нагрузки при движении по горизонтальной плоскости;</li>   <li>Передняя поддержка под стопой для безопасности во время бокового движения;</li>   <li>Вставки пяточной части подошвы выполнены из высококачественного, упругого и ультрамягкого материала EVA, который смягчает удар, приходящийся на пятку;</li>   <li>Вставки в подошве в зоне передней части стопы выполнены из легкого, упругого материала EVA;</li>   <li>Подошва с изотермическим треугольным рисунком обеспечивает сцепление как при столкновении с поверхностью земли, так и во время отталкивания.</li>   <li>Рифление по центру и разрезы по бокам способствуют отличной гибкости</li>   <li>Дизайн пяти изолирует место удара от остальной части подошвы;</li>   <li>Вес: 233 г размером 38;</li>   <li>Средняя подошва: ARC-пена;</li>   <li>Подошва: Резина;</li>   <li>Перепад - 9,5 мм.</li>  </ul>    <p>Состав: верхняя сетка: 60% полиэстер, 40% нейлон; подкладка: 100% полиэстер; подошва 100% резина; вкладыши для подошвы 100% EVA; средняя подошва 100% EVA.</p>    <p data-mce-style="text-align: left;">&nbsp;</p>  ]]></description>
+     <name_ua><![CDATA[Кросівки жіночі SHOE X165 ENGINEERED W, Чорний, 22,5 см]]></name_ua>
+     <description_ua><![CDATA[<p data-placeholder="Перевод" dir="ltr"><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Цей товар знаходиться на нашому складі! Ви можете його замовити,</span></strong><span style="background-color:#d35400;">&nbsp;</span><strong><span style="background-color:#d35400;">а ми протягом декількох днів доставимо його в магазин або відправимо Вам поштою.</span></strong></span></p>    <p data-placeholder="Перевод" dir="ltr">Легкі по вазі, дихаючі багатофункціональні бігові кросівки.&nbsp;Мають спеціалізоване сітчасте покриття і відмінну амортизацію.</p>    <p data-placeholder="Перевод" dir="ltr"><strong>Особливості:</strong></p>    <ul>   <li>Плетена синтетична тканина в верхній частині розроблена для додаткової повітропроникності, гнучкості та міцності;</li>   <li>Дизайн у формі носка;</li>   <li id="tw-target-text-container">Конструкція X-Support в поєднанні з непрошитими синтетичними шнурками забезпечують ідеальний баланс між підтримкою і гнучкістю для природного кроку;</li>   <li>Задня підтримка п&#39;яти для зменшення навантаження під час руху по горизонтальній площині;</li>   <li>Передня підтримка під стопою для безпеки під час бокового руху;</li>   <li>Вставки п&#39;яткової частини підошви виконані з високоякісного, пружного і ультрам&#39;якого матеріалу EVA, який пом&#39;якшує удар, який припадає на п&#39;яту;</li>   <li>Вставки в підошві в зоні передньої частини стопи виконані з легкого, пружного матеріалу EVA;</li>   <li>Підошва з ізотермічним трикутним малюнком забезпечує зчеплення як під час зіткнення з поверхнею землі, так і під час відштовхування.</li>   <li>Рифлення по центру і розрізи по краях сприяють відмінній гнучкості;</li>   <li>Дизайн п&#39;яти ізолює місце удару від іншої частини підошви;</li>   <li data-placeholder="Перевод" dir="ltr">Вага: 233 грама розміром 38;</li>   <li data-placeholder="Перевод" dir="ltr">Середня підошва: ARC-піна;</li>   <li data-placeholder="Перевод" dir="ltr">Підошва: Гума;</li>   <li data-placeholder="Перевод" dir="ltr">Перепад - 9,5&nbsp;мм.</li>  </ul>    <p>Склад: верхня сітка: 60% поліестер, 40% нейлон; підкладка: 100% поліестер; підошва: 100% гума; вкладиші для підошви: 100% EVA; середня підошва: 100% EVA.</p>  ]]></description_ua>
+     <param name="Цвет">Черный</param>
+     <param name="Розмір кросівок" unit="EU">36</param>
+    </offer>
+    <offer id="8003" group_id="9802461" available="true">
+     <url>https://www.craftukraine.com.ua/ru/muzhskye-krossovky-i2-control-m/8003/</url>
+     <oldprice>3600</oldprice>
+     <price>2880</price>
+     <currencyId>UAH</currencyId>
+     <categoryId>1126</categoryId>
+     <quantity_in_stock>1</quantity_in_stock>
+     <picture>https://www.craftukraine.com.ua/content/images/3/muzhskye-krossovky-i2-control-m8002-61686705534013_+3c26f2a723.jpeg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/3/muzhskye-krossovky-i2-control-m8002-37803465327420_+a166cd02fd.jpeg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/3/muzhskye-krossovky-i2-control-m8002-65266500603940_+124d23f308.jpeg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/3/muzhskye-krossovky-i2-control-m8002-50762869835991_+1ddbcb67dc.jpeg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/3/muzhskye-krossovky-i2-control-m8002-98916248976970_+e3bdf2bd0b.jpeg</picture>
+     <vendorCode>7318573617215</vendorCode>
+     <vendor>Craft</vendor>
+     <name><![CDATA[Мужские кроссовки I2 CONTROL M, Чорний, 29,5 см]]></name>
+     <description><![CDATA[<p data-mce-style="text-align: left;">I2 Control &mdash; это низкопрофильная, легкая и прочная обувь для спортзала, созданная для превосходной универсальной производительности.&nbsp;Обувь сцепляется с полом и реагирует на каждый ваш шаг, повышая устойчивость и комфорт.&nbsp;Пена с высоким отскоком и стержень в средней части стопы в сочетании с резиновой подошвой, полностью контактирующей с полом, обеспечивает высокую управляемость.&nbsp;Верх сочетает в себе воздухопроницаемость, гибкость и поддержку.</p>    <p data-mce-style="text-align: left;"><strong>Особенности:</strong></p>    <ul data-mce-style="text-align: left;">   <li>Верх из дышащей сетки.</li>   <li>Легкая промежуточная подошва из ЭВА.</li>   <li>Подошва из резиновой смеси с превосходным сцеплением.</li>   <li>Каркас из ТПУ под стопой для лучшей в своем классе устойчивости.</li>  </ul>    <p data-mce-style="text-align: left;">Состав:&nbsp;PU+текстиль(полиэстер)+TPU,100% EVA Подошва: 100% резина</p>  ]]></description>
+     <name_ua><![CDATA[Кросівки чоловічі I2 CONTROL M, Чорний, 29,5 см]]></name_ua>
+     <description_ua><![CDATA[<p>I2 Control &ndash; це низькопрофільне, легке та міцне взуття для спортзалу, створене для чудової універсальної продуктивності. Взуття зчіпляється з підлогою та реагує на кожен ваш крок, підвищуючи стійкість та комфорт. Піна з високим відскоком і стрижень у середній частині стопи у поєднанні з гумовою підошвою, що повністю контактує з підлогою, забезпечує високу керованість. Верх поєднує в собі повітропроникність, гнучкість та підтримку.</p>    <p><strong>Особливості:</strong></p>    <ul>   <li>Верх з сітки, що дихає.</li>   <li>Легка проміжна підошва із ЕВА.</li>   <li>Підошва із гумової суміші з чудовим зчепленням.</li>   <li>Каркас з ТПУ під стопою для найкращої у своєму класі стійкості.</li>  </ul>    <p>Склад: PU + текстиль (поліестер) + TPU, 100% EVA Підошва: 100% гума</p>  ]]></description_ua>
+     <param name="Цвет">Черный</param>
+     <param name="Розмір" unit="EU">45 см</param>
+    </offer>
+	
+	<offer id="12511" group_id="10765381" available="true">
+     <url>https://www.craftukraine.com.ua/ru/kurtka-zhinocha-adv-explore-down-jacket-w/12511/</url>
+     <price>11200</price>
+     <currencyId>UAH</currencyId>
+     <categoryId>1143</categoryId>
+     <quantity_in_stock>1</quantity_in_stock>
+     <picture>https://www.craftukraine.com.ua/content/images/12/41526613262844_+1a4b2b8a19.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-45441259196456_+fb1f637550.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-21031177516755_+c4c3b3c71a.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-69147031804603_+5cf396e2c6.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-21934755370036_+4a3fd59442.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-92147380153649_+778ad44969.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-59082960600745_+4526780366.jpg</picture>
+     <vendorCode>7318573597296</vendorCode>
+     <vendor>Craft</vendor>
+     <name><![CDATA[Женская куртка ADV EXPLORE DOWN JACKET W, Темно-синій, S]]></name>
+     <description><![CDATA[<p><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Этот&nbsp;товар находится&nbsp;на нашем&nbsp;складе!&nbsp;Вы&nbsp;можете&nbsp;его&nbsp;заказать,&nbsp;а&nbsp;мы в течение&nbsp;нескольких&nbsp;дней&nbsp;доставим&nbsp;его&nbsp;в&nbsp;магазин&nbsp;или&nbsp;отправим&nbsp;Вам по почте.</span></strong></span></p>    <p>ADV Explore Down Jacket &mdash; теплая пуховая куртка, созданная для активного отдыха в холодных условиях. Куртка изготовлена   из переработанных тканей и имеет высокий воротник, водоотталкивающую двустороннюю переднюю молнию, два боковых кармана с водоотталкивающими молниями, внутренний карман на молнии, регулируемую&nbsp;шнурок по низу и капюшону, а также манжеты на рукавах для защиты от холодного ветра.&nbsp;</p>    <p><strong>Особенности:</strong></p>    <ul>   <li>   <p>Пух с водоотталкивающей внешней тканью</p>   </li>   <li>   <p>Мощность наполнения 600 куб</p>   </li>   <li>   <p>Вес пуха 350 грамм</p>   </li>   <li>   <p>Высокий воротник</p>   </li>   <li>   <p>Водоотталкивающая двусторонняя передняя молния</p>   </li>   <li>   <p>Регулируемый шнурок на кромке и капюшоне</p>   </li>   <li>   <p>Два боковых кармана с водоотталкивающими молниями</p>   </li>   <li>   <p>Внутренний карман на молнии</p>   </li>   <li>   <p>Два открытых внутренних кармана на резинке</p>   </li>   <li>   <p>Манжеты на рукавах для защиты от холодного ветра</p>   </li>  </ul>    <p><strong>Состав:</strong>&nbsp;100 % переработанный полиамид. Подкладка: 45 % переработанный полиэстер, 55 % полиэстер. Набивка: 80 % пух, 20 % перо.</p>  ]]></description>
+     <name_ua><![CDATA[Куртка жіноча ADV EXPLORE DOWN JACKET W, Темно-синій, S]]></name_ua>
+     <description_ua><![CDATA[<p><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Цей товар знаходиться на нашому складі! Ви можете його замовити,&nbsp;а ми протягом декількох днів доставимо його в магазин або відправимо Вам поштою.</span></strong></span></p>    <p>ADV Explore Down Jacket - тепла пухова куртка, призначена для активного відпочинку в холодних умовах. Куртка виготовлена   з перероблених тканин і має високий комір, водовідштовхувальну двосторонню передню блискавку, дві бічні кишені з водовідштовхувальними блискавками, внутрішню кишеню на блискавці, регульовану шнурок по низу та капюшону, а також манжети на рукавах для захисту від холодного вітру.</p>    <p><strong>Особливості:</strong></p>    <ul>   <li>   <p>Пух із водовідштовхувальною&nbsp;зовнішньою&nbsp;тканиною</p>   </li>   <li>   <p>Потужність наповнення 600 куб.</p>   </li>   <li>   <p>Вага пуху 350 грам</p>   </li>   <li>   <p>Високий комір</p>   </li>   <li>   <p>Водовідштовхувальна двостороння передня блискавка</p>   </li>   <li>   <p>Регульований шнурок на кромці та капюшоні</p>   </li>   <li>   <p>Дві бічні кишені з водовідштовхувальними блискавками</p>   </li>   <li>   <p>Внутрішня кишеня на блискавці</p>   </li>   <li>   <p>Дві відкриті внутрішні кишені на&nbsp;резинці</p>   </li>   <li>   <p>Манжети на рукавах для захисту від холодного вітру</p>   </li>  </ul>    <p><strong>Склад:</strong>&nbsp;100% перероблений поліамід. Підкладка: 45% перероблений поліестер, 55% поліестер. Наповнювач: 80% пух, 20% перо.</p>  ]]></description_ua>
+     <param name="Цвет">Темно-синий</param>
+     <param name="Розмір" unit="INT">S</param>
+    </offer>
+    <offer id="12512" group_id="10765381" available="true">
+     <url>https://www.craftukraine.com.ua/ru/kurtka-zhinocha-adv-explore-down-jacket-w/12512/</url>
+     <price>11200</price>
+     <currencyId>UAH</currencyId>
+     <categoryId>1143</categoryId>
+     <quantity_in_stock>1</quantity_in_stock>
+     <picture>https://www.craftukraine.com.ua/content/images/13/99332368013626_+237c3f59c7.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-45441259196456_+fb1f637550.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-21031177516755_+c4c3b3c71a.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-69147031804603_+5cf396e2c6.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-21934755370036_+4a3fd59442.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-92147380153649_+778ad44969.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-59082960600745_+4526780366.jpg</picture>
+     <vendorCode>7318573597319</vendorCode>
+     <vendor>Craft</vendor>
+     <name><![CDATA[Женская куртка ADV EXPLORE DOWN JACKET W, Темно-синій, L]]></name>
+     <description><![CDATA[<p><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Этот&nbsp;товар находится&nbsp;на нашем&nbsp;складе!&nbsp;Вы&nbsp;можете&nbsp;его&nbsp;заказать,&nbsp;а&nbsp;мы в течение&nbsp;нескольких&nbsp;дней&nbsp;доставим&nbsp;его&nbsp;в&nbsp;магазин&nbsp;или&nbsp;отправим&nbsp;Вам по почте.</span></strong></span></p>    <p>ADV Explore Down Jacket &mdash; теплая пуховая куртка, созданная для активного отдыха в холодных условиях. Куртка изготовлена   из переработанных тканей и имеет высокий воротник, водоотталкивающую двустороннюю переднюю молнию, два боковых кармана с водоотталкивающими молниями, внутренний карман на молнии, регулируемую&nbsp;шнурок по низу и капюшону, а также манжеты на рукавах для защиты от холодного ветра.&nbsp;</p>    <p><strong>Особенности:</strong></p>    <ul>   <li>   <p>Пух с водоотталкивающей внешней тканью</p>   </li>   <li>   <p>Мощность наполнения 600 куб</p>   </li>   <li>   <p>Вес пуха 350 грамм</p>   </li>   <li>   <p>Высокий воротник</p>   </li>   <li>   <p>Водоотталкивающая двусторонняя передняя молния</p>   </li>   <li>   <p>Регулируемый шнурок на кромке и капюшоне</p>   </li>   <li>   <p>Два боковых кармана с водоотталкивающими молниями</p>   </li>   <li>   <p>Внутренний карман на молнии</p>   </li>   <li>   <p>Два открытых внутренних кармана на резинке</p>   </li>   <li>   <p>Манжеты на рукавах для защиты от холодного ветра</p>   </li>  </ul>    <p><strong>Состав:</strong>&nbsp;100 % переработанный полиамид. Подкладка: 45 % переработанный полиэстер, 55 % полиэстер. Набивка: 80 % пух, 20 % перо.</p>  ]]></description>
+     <name_ua><![CDATA[Куртка жіноча ADV EXPLORE DOWN JACKET W, Темно-синій, L]]></name_ua>
+     <description_ua><![CDATA[<p><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Цей товар знаходиться на нашому складі! Ви можете його замовити,&nbsp;а ми протягом декількох днів доставимо його в магазин або відправимо Вам поштою.</span></strong></span></p>    <p>ADV Explore Down Jacket - тепла пухова куртка, призначена для активного відпочинку в холодних умовах. Куртка виготовлена   з перероблених тканин і має високий комір, водовідштовхувальну двосторонню передню блискавку, дві бічні кишені з водовідштовхувальними блискавками, внутрішню кишеню на блискавці, регульовану шнурок по низу та капюшону, а також манжети на рукавах для захисту від холодного вітру.</p>    <p><strong>Особливості:</strong></p>    <ul>   <li>   <p>Пух із водовідштовхувальною&nbsp;зовнішньою&nbsp;тканиною</p>   </li>   <li>   <p>Потужність наповнення 600 куб.</p>   </li>   <li>   <p>Вага пуху 350 грам</p>   </li>   <li>   <p>Високий комір</p>   </li>   <li>   <p>Водовідштовхувальна двостороння передня блискавка</p>   </li>   <li>   <p>Регульований шнурок на кромці та капюшоні</p>   </li>   <li>   <p>Дві бічні кишені з водовідштовхувальними блискавками</p>   </li>   <li>   <p>Внутрішня кишеня на блискавці</p>   </li>   <li>   <p>Дві відкриті внутрішні кишені на&nbsp;резинці</p>   </li>   <li>   <p>Манжети на рукавах для захисту від холодного вітру</p>   </li>  </ul>    <p><strong>Склад:</strong>&nbsp;100% перероблений поліамід. Підкладка: 45% перероблений поліестер, 55% поліестер. Наповнювач: 80% пух, 20% перо.</p>  ]]></description_ua>
+     <param name="Цвет">Темно-синий</param>
+     <param name="Розмір" unit="INT">L</param>
+    </offer>
+    <offer id="12513" group_id="10765381" available="true">
+     <url>https://www.craftukraine.com.ua/ru/kurtka-zhinocha-adv-explore-down-jacket-w/12513/</url>
+     <price>11200</price>
+     <currencyId>UAH</currencyId>
+     <categoryId>1143</categoryId>
+     <quantity_in_stock>1</quantity_in_stock>
+     <picture>https://www.craftukraine.com.ua/content/images/14/19396622913729_+113d4dd1fb.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-45441259196456_+fb1f637550.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-21031177516755_+c4c3b3c71a.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-69147031804603_+5cf396e2c6.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-21934755370036_+4a3fd59442.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-92147380153649_+778ad44969.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/15/kurtky-adv-explore-down-jacket-w12064-59082960600745_+4526780366.jpg</picture>
+     <vendorCode>7318573597326</vendorCode>
+     <vendor>Craft</vendor>
+     <name><![CDATA[Женская куртка ADV EXPLORE DOWN JACKET W, Темно-синій, XL]]></name>
+     <description><![CDATA[<p><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Этот&nbsp;товар находится&nbsp;на нашем&nbsp;складе!&nbsp;Вы&nbsp;можете&nbsp;его&nbsp;заказать,&nbsp;а&nbsp;мы в течение&nbsp;нескольких&nbsp;дней&nbsp;доставим&nbsp;его&nbsp;в&nbsp;магазин&nbsp;или&nbsp;отправим&nbsp;Вам по почте.</span></strong></span></p>    <p>ADV Explore Down Jacket &mdash; теплая пуховая куртка, созданная для активного отдыха в холодных условиях. Куртка изготовлена   из переработанных тканей и имеет высокий воротник, водоотталкивающую двустороннюю переднюю молнию, два боковых кармана с водоотталкивающими молниями, внутренний карман на молнии, регулируемую&nbsp;шнурок по низу и капюшону, а также манжеты на рукавах для защиты от холодного ветра.&nbsp;</p>    <p><strong>Особенности:</strong></p>    <ul>   <li>   <p>Пух с водоотталкивающей внешней тканью</p>   </li>   <li>   <p>Мощность наполнения 600 куб</p>   </li>   <li>   <p>Вес пуха 350 грамм</p>   </li>   <li>   <p>Высокий воротник</p>   </li>   <li>   <p>Водоотталкивающая двусторонняя передняя молния</p>   </li>   <li>   <p>Регулируемый шнурок на кромке и капюшоне</p>   </li>   <li>   <p>Два боковых кармана с водоотталкивающими молниями</p>   </li>   <li>   <p>Внутренний карман на молнии</p>   </li>   <li>   <p>Два открытых внутренних кармана на резинке</p>   </li>   <li>   <p>Манжеты на рукавах для защиты от холодного ветра</p>   </li>  </ul>    <p><strong>Состав:</strong>&nbsp;100 % переработанный полиамид. Подкладка: 45 % переработанный полиэстер, 55 % полиэстер. Набивка: 80 % пух, 20 % перо.</p>  ]]></description>
+     <name_ua><![CDATA[Куртка жіноча ADV EXPLORE DOWN JACKET W, Темно-синій, XL]]></name_ua>
+     <description_ua><![CDATA[<p><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Цей товар знаходиться на нашому складі! Ви можете його замовити,&nbsp;а ми протягом декількох днів доставимо його в магазин або відправимо Вам поштою.</span></strong></span></p>    <p>ADV Explore Down Jacket - тепла пухова куртка, призначена для активного відпочинку в холодних умовах. Куртка виготовлена   з перероблених тканин і має високий комір, водовідштовхувальну двосторонню передню блискавку, дві бічні кишені з водовідштовхувальними блискавками, внутрішню кишеню на блискавці, регульовану шнурок по низу та капюшону, а також манжети на рукавах для захисту від холодного вітру.</p>    <p><strong>Особливості:</strong></p>    <ul>   <li>   <p>Пух із водовідштовхувальною&nbsp;зовнішньою&nbsp;тканиною</p>   </li>   <li>   <p>Потужність наповнення 600 куб.</p>   </li>   <li>   <p>Вага пуху 350 грам</p>   </li>   <li>   <p>Високий комір</p>   </li>   <li>   <p>Водовідштовхувальна двостороння передня блискавка</p>   </li>   <li>   <p>Регульований шнурок на кромці та капюшоні</p>   </li>   <li>   <p>Дві бічні кишені з водовідштовхувальними блискавками</p>   </li>   <li>   <p>Внутрішня кишеня на блискавці</p>   </li>   <li>   <p>Дві відкриті внутрішні кишені на&nbsp;резинці</p>   </li>   <li>   <p>Манжети на рукавах для захисту від холодного вітру</p>   </li>  </ul>    <p><strong>Склад:</strong>&nbsp;100% перероблений поліамід. Підкладка: 45% перероблений поліестер, 55% поліестер. Наповнювач: 80% пух, 20% перо.</p>  ]]></description_ua>
+     <param name="Цвет">Темно-синий</param>
+     <param name="Розмір" unit="INT">XL</param>
+    </offer>
+    <offer id="12514" group_id="10765381" available="true">
+     <url>https://www.craftukraine.com.ua/ru/kurtka-zhinocha-adv-explore-down-jacket-w/</url>
+     <price>11200</price>
+     <currencyId>UAH</currencyId>
+     <categoryId>1143</categoryId>
+     <quantity_in_stock>3</quantity_in_stock>
+     <picture>https://www.craftukraine.com.ua/content/images/15/59101742473258_+25447d62dc.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/17/kurtky-adv-explore-down-jacket-w12066-54333314160846_+a8795e6b85.jpg</picture>
+     <vendorCode>7318573597357</vendorCode>
+     <vendor>Craft</vendor>
+     <name><![CDATA[Женская куртка ADV EXPLORE DOWN JACKET W, Червоний, S]]></name>
+     <description><![CDATA[<p><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Этот&nbsp;товар находится&nbsp;на нашем&nbsp;складе!&nbsp;Вы&nbsp;можете&nbsp;его&nbsp;заказать,&nbsp;а&nbsp;мы в течение&nbsp;нескольких&nbsp;дней&nbsp;доставим&nbsp;его&nbsp;в&nbsp;магазин&nbsp;или&nbsp;отправим&nbsp;Вам по почте.</span></strong></span></p>    <p>ADV Explore Down Jacket &mdash; теплая пуховая куртка, созданная для активного отдыха в холодных условиях. Куртка изготовлена   из переработанных тканей и имеет высокий воротник, водоотталкивающую двустороннюю переднюю молнию, два боковых кармана с водоотталкивающими молниями, внутренний карман на молнии, регулируемую&nbsp;шнурок по низу и капюшону, а также манжеты на рукавах для защиты от холодного ветра.&nbsp;</p>    <p><strong>Особенности:</strong></p>    <ul>   <li>   <p>Пух с водоотталкивающей внешней тканью</p>   </li>   <li>   <p>Мощность наполнения 600 куб</p>   </li>   <li>   <p>Вес пуха 350 грамм</p>   </li>   <li>   <p>Высокий воротник</p>   </li>   <li>   <p>Водоотталкивающая двусторонняя передняя молния</p>   </li>   <li>   <p>Регулируемый шнурок на кромке и капюшоне</p>   </li>   <li>   <p>Два боковых кармана с водоотталкивающими молниями</p>   </li>   <li>   <p>Внутренний карман на молнии</p>   </li>   <li>   <p>Два открытых внутренних кармана на резинке</p>   </li>   <li>   <p>Манжеты на рукавах для защиты от холодного ветра</p>   </li>  </ul>    <p><strong>Состав:</strong>&nbsp;100 % переработанный полиамид. Подкладка: 45 % переработанный полиэстер, 55 % полиэстер. Набивка: 80 % пух, 20 % перо.</p>  ]]></description>
+     <name_ua><![CDATA[Куртка жіноча ADV EXPLORE DOWN JACKET W, Червоний, S]]></name_ua>
+     <description_ua><![CDATA[<p><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Цей товар знаходиться на нашому складі! Ви можете його замовити,&nbsp;а ми протягом декількох днів доставимо його в магазин або відправимо Вам поштою.</span></strong></span></p>    <p>ADV Explore Down Jacket - тепла пухова куртка, призначена для активного відпочинку в холодних умовах. Куртка виготовлена   з перероблених тканин і має високий комір, водовідштовхувальну двосторонню передню блискавку, дві бічні кишені з водовідштовхувальними блискавками, внутрішню кишеню на блискавці, регульовану шнурок по низу та капюшону, а також манжети на рукавах для захисту від холодного вітру.</p>    <p><strong>Особливості:</strong></p>    <ul>   <li>   <p>Пух із водовідштовхувальною&nbsp;зовнішньою&nbsp;тканиною</p>   </li>   <li>   <p>Потужність наповнення 600 куб.</p>   </li>   <li>   <p>Вага пуху 350 грам</p>   </li>   <li>   <p>Високий комір</p>   </li>   <li>   <p>Водовідштовхувальна двостороння передня блискавка</p>   </li>   <li>   <p>Регульований шнурок на кромці та капюшоні</p>   </li>   <li>   <p>Дві бічні кишені з водовідштовхувальними блискавками</p>   </li>   <li>   <p>Внутрішня кишеня на блискавці</p>   </li>   <li>   <p>Дві відкриті внутрішні кишені на&nbsp;резинці</p>   </li>   <li>   <p>Манжети на рукавах для захисту від холодного вітру</p>   </li>  </ul>    <p><strong>Склад:</strong>&nbsp;100% перероблений поліамід. Підкладка: 45% перероблений поліестер, 55% поліестер. Наповнювач: 80% пух, 20% перо.</p>  ]]></description_ua>
+     <param name="Цвет">Красный</param>
+     <param name="Розмір" unit="INT">S</param>
+    </offer>
+    <offer id="12515" group_id="10765381" available="true">
+     <url>https://www.craftukraine.com.ua/ru/kurtka-zhinocha-adv-explore-down-jacket-w/12515/</url>
+     <price>11200</price>
+     <currencyId>UAH</currencyId>
+     <categoryId>1143</categoryId>
+     <quantity_in_stock>3</quantity_in_stock>
+     <picture>https://www.craftukraine.com.ua/content/images/16/82566756580562_+a482b72d19.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/17/kurtky-adv-explore-down-jacket-w12066-54333314160846_+a8795e6b85.jpg</picture>
+     <vendorCode>7318573597364</vendorCode>
+     <vendor>Craft</vendor>
+     <name><![CDATA[Женская куртка ADV EXPLORE DOWN JACKET W, Червоний, M]]></name>
+     <description><![CDATA[<p><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Этот&nbsp;товар находится&nbsp;на нашем&nbsp;складе!&nbsp;Вы&nbsp;можете&nbsp;его&nbsp;заказать,&nbsp;а&nbsp;мы в течение&nbsp;нескольких&nbsp;дней&nbsp;доставим&nbsp;его&nbsp;в&nbsp;магазин&nbsp;или&nbsp;отправим&nbsp;Вам по почте.</span></strong></span></p>    <p>ADV Explore Down Jacket &mdash; теплая пуховая куртка, созданная для активного отдыха в холодных условиях. Куртка изготовлена   из переработанных тканей и имеет высокий воротник, водоотталкивающую двустороннюю переднюю молнию, два боковых кармана с водоотталкивающими молниями, внутренний карман на молнии, регулируемую&nbsp;шнурок по низу и капюшону, а также манжеты на рукавах для защиты от холодного ветра.&nbsp;</p>    <p><strong>Особенности:</strong></p>    <ul>   <li>   <p>Пух с водоотталкивающей внешней тканью</p>   </li>   <li>   <p>Мощность наполнения 600 куб</p>   </li>   <li>   <p>Вес пуха 350 грамм</p>   </li>   <li>   <p>Высокий воротник</p>   </li>   <li>   <p>Водоотталкивающая двусторонняя передняя молния</p>   </li>   <li>   <p>Регулируемый шнурок на кромке и капюшоне</p>   </li>   <li>   <p>Два боковых кармана с водоотталкивающими молниями</p>   </li>   <li>   <p>Внутренний карман на молнии</p>   </li>   <li>   <p>Два открытых внутренних кармана на резинке</p>   </li>   <li>   <p>Манжеты на рукавах для защиты от холодного ветра</p>   </li>  </ul>    <p><strong>Состав:</strong>&nbsp;100 % переработанный полиамид. Подкладка: 45 % переработанный полиэстер, 55 % полиэстер. Набивка: 80 % пух, 20 % перо.</p>  ]]></description>
+     <name_ua><![CDATA[Куртка жіноча ADV EXPLORE DOWN JACKET W, Червоний, M]]></name_ua>
+     <description_ua><![CDATA[<p><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Цей товар знаходиться на нашому складі! Ви можете його замовити,&nbsp;а ми протягом декількох днів доставимо його в магазин або відправимо Вам поштою.</span></strong></span></p>    <p>ADV Explore Down Jacket - тепла пухова куртка, призначена для активного відпочинку в холодних умовах. Куртка виготовлена   з перероблених тканин і має високий комір, водовідштовхувальну двосторонню передню блискавку, дві бічні кишені з водовідштовхувальними блискавками, внутрішню кишеню на блискавці, регульовану шнурок по низу та капюшону, а також манжети на рукавах для захисту від холодного вітру.</p>    <p><strong>Особливості:</strong></p>    <ul>   <li>   <p>Пух із водовідштовхувальною&nbsp;зовнішньою&nbsp;тканиною</p>   </li>   <li>   <p>Потужність наповнення 600 куб.</p>   </li>   <li>   <p>Вага пуху 350 грам</p>   </li>   <li>   <p>Високий комір</p>   </li>   <li>   <p>Водовідштовхувальна двостороння передня блискавка</p>   </li>   <li>   <p>Регульований шнурок на кромці та капюшоні</p>   </li>   <li>   <p>Дві бічні кишені з водовідштовхувальними блискавками</p>   </li>   <li>   <p>Внутрішня кишеня на блискавці</p>   </li>   <li>   <p>Дві відкриті внутрішні кишені на&nbsp;резинці</p>   </li>   <li>   <p>Манжети на рукавах для захисту від холодного вітру</p>   </li>  </ul>    <p><strong>Склад:</strong>&nbsp;100% перероблений поліамід. Підкладка: 45% перероблений поліестер, 55% поліестер. Наповнювач: 80% пух, 20% перо.</p>  ]]></description_ua>
+     <param name="Цвет">Красный</param>
+     <param name="Розмір" unit="INT">M</param>
+    </offer>
+    <offer id="12516" group_id="10765381" available="true">
+     <url>https://www.craftukraine.com.ua/ru/kurtka-zhinocha-adv-explore-down-jacket-w/12516/</url>
+     <price>11200</price>
+     <currencyId>UAH</currencyId>
+     <categoryId>1143</categoryId>
+     <quantity_in_stock>2</quantity_in_stock>
+     <picture>https://www.craftukraine.com.ua/content/images/17/56392734439113_+4c1330b67e.jpg</picture>
+     <picture>https://www.craftukraine.com.ua/content/images/17/kurtky-adv-explore-down-jacket-w12066-54333314160846_+a8795e6b85.jpg</picture>
+     <vendorCode>7318573597371</vendorCode>
+     <vendor>Craft</vendor>
+     <name><![CDATA[Женская куртка ADV EXPLORE DOWN JACKET W, Червоний, L]]></name>
+     <description><![CDATA[<p><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Этот&nbsp;товар находится&nbsp;на нашем&nbsp;складе!&nbsp;Вы&nbsp;можете&nbsp;его&nbsp;заказать,&nbsp;а&nbsp;мы в течение&nbsp;нескольких&nbsp;дней&nbsp;доставим&nbsp;его&nbsp;в&nbsp;магазин&nbsp;или&nbsp;отправим&nbsp;Вам по почте.</span></strong></span></p>    <p>ADV Explore Down Jacket &mdash; теплая пуховая куртка, созданная для активного отдыха в холодных условиях. Куртка изготовлена   из переработанных тканей и имеет высокий воротник, водоотталкивающую двустороннюю переднюю молнию, два боковых кармана с водоотталкивающими молниями, внутренний карман на молнии, регулируемую&nbsp;шнурок по низу и капюшону, а также манжеты на рукавах для защиты от холодного ветра.&nbsp;</p>    <p><strong>Особенности:</strong></p>    <ul>   <li>   <p>Пух с водоотталкивающей внешней тканью</p>   </li>   <li>   <p>Мощность наполнения 600 куб</p>   </li>   <li>   <p>Вес пуха 350 грамм</p>   </li>   <li>   <p>Высокий воротник</p>   </li>   <li>   <p>Водоотталкивающая двусторонняя передняя молния</p>   </li>   <li>   <p>Регулируемый шнурок на кромке и капюшоне</p>   </li>   <li>   <p>Два боковых кармана с водоотталкивающими молниями</p>   </li>   <li>   <p>Внутренний карман на молнии</p>   </li>   <li>   <p>Два открытых внутренних кармана на резинке</p>   </li>   <li>   <p>Манжеты на рукавах для защиты от холодного ветра</p>   </li>  </ul>    <p><strong>Состав:</strong>&nbsp;100 % переработанный полиамид. Подкладка: 45 % переработанный полиэстер, 55 % полиэстер. Набивка: 80 % пух, 20 % перо.</p>  ]]></description>
+     <name_ua><![CDATA[Куртка жіноча ADV EXPLORE DOWN JACKET W, Червоний, L]]></name_ua>
+     <description_ua><![CDATA[<p><span style="color:#ffffff;"><strong><span style="background-color:#d35400;">Цей товар знаходиться на нашому складі! Ви можете його замовити,&nbsp;а ми протягом декількох днів доставимо його в магазин або відправимо Вам поштою.</span></strong></span></p>    <p>ADV Explore Down Jacket - тепла пухова куртка, призначена для активного відпочинку в холодних умовах. Куртка виготовлена   з перероблених тканин і має високий комір, водовідштовхувальну двосторонню передню блискавку, дві бічні кишені з водовідштовхувальними блискавками, внутрішню кишеню на блискавці, регульовану шнурок по низу та капюшону, а також манжети на рукавах для захисту від холодного вітру.</p>    <p><strong>Особливості:</strong></p>    <ul>   <li>   <p>Пух із водовідштовхувальною&nbsp;зовнішньою&nbsp;тканиною</p>   </li>   <li>   <p>Потужність наповнення 600 куб.</p>   </li>   <li>   <p>Вага пуху 350 грам</p>   </li>   <li>   <p>Високий комір</p>   </li>   <li>   <p>Водовідштовхувальна двостороння передня блискавка</p>   </li>   <li>   <p>Регульований шнурок на кромці та капюшоні</p>   </li>   <li>   <p>Дві бічні кишені з водовідштовхувальними блискавками</p>   </li>   <li>   <p>Внутрішня кишеня на блискавці</p>   </li>   <li>   <p>Дві відкриті внутрішні кишені на&nbsp;резинці</p>   </li>   <li>   <p>Манжети на рукавах для захисту від холодного вітру</p>   </li>  </ul>    <p><strong>Склад:</strong>&nbsp;100% перероблений поліамід. Підкладка: 45% перероблений поліестер, 55% поліестер. Наповнювач: 80% пух, 20% перо.</p>  ]]></description_ua>
+     <param name="Цвет">Красный</param>
+     <param name="Розмір" unit="INT">L</param>
+    </offer>
+	
+	<offer id="1109" group_id="1420381" available="true">
+     <url>https://www.craftukraine.com.ua/ru/velorukavytsi-rain-glove-2.0/1109/</url>
+     <price>2000</price>
+     <currencyId>UAH</currencyId>
+     <categoryId>1138</categoryId>
+     <quantity_in_stock>5</quantity_in_stock>
+     <picture>https://www.craftukraine.com.ua/content/images/32/veloperchatky-rain-glove-2.01931-56571573954389_+5b8c59be0c.jpg</picture>
+     <vendorCode>7318572834231</vendorCode>
+	 <code>7318572834231-999000-S</code>
+     <vendor>Craft</vendor>
+     <name><![CDATA[Велоперчатки Rain Glove 2.0, Чорний, 8/S]]></name>
+     <description><![CDATA[<p>Ветрозащитные велосипедные перчатки с амортизирующим гелем и силиконовым принтом в ладони для оптимального сцепления.</p>    <p><strong>Особенности:</strong></p>    <ul>   <li>   <p>Оснащены регулятором на липучках</p>   </li>   <li>   <p>Светоотражающие элементы для дополнительной безопасности</p>   </li>   <li>   <p>Указательный палец и большой совместим с сенсорным экраном.</p>   </li>  </ul>    <p>Состав:&nbsp;внешняя часть: 90% полиэстер, 10% эластан;&nbsp;ладони: 50% полиуретан, 50% полиамид; подложка: 100% полиэстер.</p>  ]]></description>
+     <name_ua><![CDATA[Велорукавиці Rain Glove 2.0, Чорний, 8/S]]></name_ua>
+     <description_ua><![CDATA[<p>Вітрозахисні велосипедні рукавички з амортизуючим гелем та силіконовим принтом у долоні для оптимального зчеплення.</p>    <p><strong>Особливості:</strong></p>    <ul>   <li>   <p>Оснащені регулятором на липучках</p>   </li>   <li>   <p>Світловідбиваючі елементи для додаткової безпеки</p>   </li>   <li>   <p>Вказівний палець та великий сумісний із сенсорним екраном.</p>   </li>  </ul>    <p>Склад: зовнішня частина: 90% поліестер, 10% еластан; долоні: 50% поліуретан, 50% поліамід; підкладка: 100% поліестер.</p>  ]]></description_ua>
+     <param name="Цвет">Черный</param>
+     <param name="Розмір" unit="INT">8/S</param>
+    </offer>
+    <offer id="1113" group_id="1420381" available="true">
+    <url>https://www.craftukraine.com.ua/ru/velorukavytsi-rain-glove-2.0/1113/</url>
+     <price>2000</price>
+     <currencyId>UAH</currencyId>
+     <categoryId>1138</categoryId>
+     <quantity_in_stock>4</quantity_in_stock>
+     <picture>https://www.craftukraine.com.ua/content/images/32/veloperchatky-rain-glove-2.01931-56571573954389_+5b8c59be0c.jpg</picture>
+     <vendorCode>7318572867031</vendorCode>
+	 <code>7318572867031-999000-M</code>
+     <vendor>Craft</vendor>
+     <name><![CDATA[Велоперчатки Rain Glove 2.0, Чорний, 9/M]]></name>
+     <description><![CDATA[<p>Ветрозащитные велосипедные перчатки с амортизирующим гелем и силиконовым принтом в ладони для оптимального сцепления.</p>    <p><strong>Особенности:</strong></p>    <ul>   <li>   <p>Оснащены регулятором на липучках</p>   </li>   <li>   <p>Светоотражающие элементы для дополнительной безопасности</p>   </li>   <li>   <p>Указательный палец и большой совместим с сенсорным экраном.</p>   </li>  </ul>    <p>Состав:&nbsp;внешняя часть: 90% полиэстер, 10% эластан;&nbsp;ладони: 50% полиуретан, 50% полиамид; подложка: 100% полиэстер.</p>  ]]></description>
+     <name_ua><![CDATA[Велорукавиці Rain Glove 2.0, Чорний, 9/M]]></name_ua>
+     <description_ua><![CDATA[<p>Вітрозахисні велосипедні рукавички з амортизуючим гелем та силіконовим принтом у долоні для оптимального зчеплення.</p>    <p><strong>Особливості:</strong></p>    <ul>   <li>   <p>Оснащені регулятором на липучках</p>   </li>   <li>   <p>Світловідбиваючі елементи для додаткової безпеки</p>   </li>   <li>   <p>Вказівний палець та великий сумісний із сенсорним екраном.</p>   </li>  </ul>    <p>Склад: зовнішня частина: 90% поліестер, 10% еластан; долоні: 50% поліуретан, 50% поліамід; підкладка: 100% поліестер.</p>  ]]></description_ua>
+     <param name="Цвет">Черный</param>
+     <param name="Розмір" unit="INT">9/M</param>
+    </offer>
+  </offers>
+  </shop>
+</yml_catalog>
